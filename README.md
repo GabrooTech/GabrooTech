@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabro</h1>
 <h3 align="center">A passionate front-end developer from Georgia</h3>
 
-- 🔭 I’m currently working on **portfolio**
+- 🔭 I’m currently working on **Gettin ready for exams**
 
 - 🌱 I’m currently learning **TypeScript**
 
