@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gabro</h1>
 <h3 align="center">A passionate front-end developer from Georgia</h3>
 
-- 🔭 I’m currently working on **Gettin ready for exams**
+- 🔭 I’m currently working on **Back-End project**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **PHP**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Front-end**
 
 - 📫 How to reach me **fdgabro@gmail.com**
 
