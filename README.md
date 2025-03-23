@@ -1,13 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabro</h1>
-<h3 align="center">A passionate front-end developer from Georgia</h3>
-
-- 🔭 I’m currently working on Back-end project and enriching my skills in Angular
-
-- 🌱 I’m currently learning Angular 2
-
-- 💬 Ask me about **Front-end**
-
-- 📫 How to reach me **fdgabro@gmail.com**
+<h3 align="center">A software enginner</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
